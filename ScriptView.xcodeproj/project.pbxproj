@@ -29,6 +29,7 @@
 		29B97325FDCFA39411CA2CEA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
 		48CD63CD14FFFDC6003B6583 /* SVScriptCommands.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SVScriptCommands.m; sourceTree = "<group>"; };
 		48CD63D015000276003B6583 /* ScriptView.sdef */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.sdef; path = ScriptView.sdef; sourceTree = "<group>"; };
+		48CD64E0150067D9003B6583 /* ReadMe.markdown */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ReadMe.markdown; sourceTree = "<group>"; wrapsLines = 1; };
 		8D1107310486CEB800E47090 /* ScriptView-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "ScriptView-Info.plist"; sourceTree = "<group>"; };
 		8D1107320486CEB800E47090 /* ScriptView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScriptView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -89,6 +90,7 @@
 				29B97317FDCFA39411CA2CEA /* Resources */,
 				29B97323FDCFA39411CA2CEA /* Frameworks */,
 				19C28FACFE9D520D11CA2CBB /* Products */,
+				48CD64E0150067D9003B6583 /* ReadMe.markdown */,
 			);
 			name = ScriptView;
 			sourceTree = "<group>";
