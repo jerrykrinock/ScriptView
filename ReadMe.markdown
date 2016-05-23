@@ -10,9 +10,7 @@ AppleScripters may simply reverse-engineer or copy and modify ScriptViewDemo.app
 
 ### System Requirements
 
-The ScriptView app, and this demo AppleScript, require Mac OS X 10.5 or later.  They will run in ppc, i386 or x86_64 architecture.  (The 'applet' executable in the ScriptViewDemo.app bundle has been hand-crafted with lipo to contain all three architectures.)  
-
-The ScriptView app Cocoa app and the ScriptViewDemo.app AppleScript were both tested on a PowerPC Mac running 10.5 and a 64-bit Intel Mac running 10.7.3.
+The ScriptView app, and this demo AppleScript, require Mac OS X 10.5 or later.  They will run in i386 or x86_64 architecture. 
 
 ### How To
 
@@ -27,4 +25,4 @@ But that's all in theory.  In practice, we clone and edit, don't we!  So, do thi
 
 ### License
 
-This is all public domain.  Have fun.
+This is all public domain.  Contact me if you really need a license.

@@ -38,7 +38,7 @@
 	// it would scroll to the bottom, and so I did the opposite, scrollPoint:NSZeroPoint.
 	// Maybe the 10.5 SDK defaults to scrolling to the top, and the 10.7 SDK
 	// defaults to scrolling to the bottom?
-	[textView scrollPoint:NSMakePoint(0, FLT_MAX)] ;
+	[textView scrollRangeToVisible:NSMakeRange([[textView string] length], 0)] ;
 
 	[textView display] ;
 }
