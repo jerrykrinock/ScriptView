@@ -19,7 +19,7 @@
 		return nil ;
 	}
 	
-	[[NSApp delegate] addLine:newLine] ;
+	[(ScriptViewAppDelegate*)[NSApp delegate] addLine:newLine] ;
 	
 	return nil ;
 }
