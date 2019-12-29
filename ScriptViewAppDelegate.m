@@ -19,6 +19,7 @@
 - (void)addLine:(NSString*)line {
 	NSDictionary* attributes = [NSDictionary dictionaryWithObjectsAndKeys:
 								[NSFont systemFontOfSize:11.0], NSFontAttributeName,
+                                [NSColor controlTextColor], NSForegroundColorAttributeName,
 								nil] ;
 	NSString* text = [[textView textStorage] string] ;
 	if (text) {

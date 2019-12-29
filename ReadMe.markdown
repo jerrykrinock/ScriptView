@@ -10,7 +10,7 @@ AppleScripters may simply reverse-engineer or copy and modify ScriptViewDemo.app
 
 ### System Requirements
 
-The ScriptView app, and this demo AppleScript, require macOS 10.6 or later and a 64-bit Mac. 
+The ScriptView app, and this demo AppleScript, require macOS 10.8 or later and a 64-bit Mac. 
 
 ### How To
 
